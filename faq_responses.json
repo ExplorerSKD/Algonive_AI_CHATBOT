@@ -1,0 +1,74 @@
+{
+  "greeting": [
+    "Hello! Welcome to our customer support. How can I assist you today?",
+    "Hi there! I'm here to help with any questions you might have.",
+    "Greetings! How may I be of service to you today?",
+    "Hey! Thanks for reaching out. What can I help you with?",
+    "Good day! I'm your virtual assistant. How can I make your day better?"
+  ],
+  "farewell": [
+    "Goodbye! Have a wonderful day!",
+    "Thank you for chatting with us. We're here if you need anything else!",
+    "See you later! Feel free to return if you have more questions.",
+    "Farewell! It was a pleasure assisting you today.",
+    "Take care! Don't hesitate to reach out if you need further assistance."
+  ],
+  "help": [
+    "I can help with account information, order status, payment issues, weather information, news updates, currency conversion, calculations, jokes, and much more!",
+    "I'm your multi-purpose assistant! I can help with account issues, orders, payments, weather, news, currency exchange, math problems, and even tell you jokes to brighten your day!",
+    "My capabilities include: account support, order tracking, payment assistance, weather forecasts, news updates, currency conversion, simple calculations, and entertainment with jokes!"
+  ],
+  "account": [
+    "To access your account, please visit our website and click on 'Login' in the top right corner.",
+    "You can reset your password by clicking on 'Forgot Password' on the login page. We'll send a reset link to your email.",
+    "For account security issues, please contact our support team at security@example.com or call 1-800-123-4567.",
+    "To update your account information, log in and navigate to 'My Account' > 'Profile Settings'.",
+    "If you're having trouble accessing your account, try clearing your browser cache or using a different browser."
+  ],
+  "order": [
+    "To check your order status, I'll need your order number. You can find it in your confirmation email.",
+    "You can track your order using the tracking number sent to your email. Visit our tracking page for real-time updates.",
+    "For order modifications or cancellations, please contact our order support team at orders@example.com within 24 hours of placement.",
+    "Standard shipping typically takes 3-5 business days. Express shipping delivers within 1-2 business days.",
+    "If your order hasn't arrived within the estimated timeframe, please contact us with your order number for assistance."
+  ],
+  "payment": [
+    "We accept credit cards (Visa, MasterCard, American Express), PayPal, and bank transfers.",
+    "For payment issues, please contact our billing department at billing@example.com or call 1-800-PAY-MENT.",
+    "If your payment was declined, please check your card details, ensure sufficient funds, or try a different payment method.",
+    "Refunds typically process within 5-10 business days and will appear on your original payment method.",
+    "For invoice requests or payment discrepancies, please email accounting@example.com with your order number."
+  ],
+  "features": [
+    "I can help with:\n- Account and order issues\n- Weather information for any location\n- Latest news headlines\n- Currency conversion between major currencies\n- Mathematical calculations\n- Telling jokes to brighten your day\n- Time and date information\n- And much more!",
+    "My capabilities include:\n- Answering FAQs about our services\n- Providing weather forecasts worldwide\n- Sharing news from various categories\n- Currency exchange rate calculations\n- Basic and advanced mathematical operations\n- Entertainment with humorous jokes\n- Time and timezone information"
+  ],
+  "default": [
+    "I'm not sure I understand. Could you please rephrase your question?",
+    "I don't have information about that yet. Would you like to speak with a human agent?",
+    "Let me connect you with a customer service representative for further assistance.",
+    "That's an interesting question. I'm still learning, so I don't have an answer for that yet.",
+    "I'm afraid I can't help with that specific query at the moment. Is there something else I can assist you with?"
+  ],
+  "contact": [
+    "You can reach our customer service team at support@example.com or call 1-800-123-HELP.",
+    "For technical support, please email tech@example.com or call 1-800-TECH-SUP.",
+    "Our customer service hours are Monday-Friday, 9AM-6PM EST. For after-hours emergencies, use our contact form.",
+    "Visit our contact page at example.com/contact for department-specific email addresses and phone numbers.",
+    "For the quickest response, use our live chat feature during business hours or email us at help@example.com."
+  ],
+  "shipping": [
+    "We offer free standard shipping on orders over $50. Express shipping is available for an additional fee.",
+    "International shipping typically takes 7-14 business days, depending on the destination.",
+    "You can track your shipment using the tracking number provided in your shipping confirmation email.",
+    "For shipping address changes, please contact us immediately at orders@example.com with your order number.",
+    "Shipping costs are calculated at checkout based on weight, destination, and selected shipping method."
+  ],
+  "returns": [
+    "We offer a 30-day return policy for unused items in original packaging with receipt.",
+    "To initiate a return, visit our returns portal at example.com/returns and enter your order number.",
+    "Return shipping is free for defective items or incorrect shipments. Otherwise, return shipping is the customer's responsibility.",
+    "Refunds are processed within 3-5 business days after we receive your returned items.",
+    "For return exceptions or special circumstances, please email returns@example.com with details."
+  ]
+}
